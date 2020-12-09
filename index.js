@@ -1,1 +1,3 @@
-console.log('hello world!');
+const userObj = require('./user')
+
+console.log(userObj);
